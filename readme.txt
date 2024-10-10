@@ -1,4 +1,4 @@
 Welcome to MyProject!
 
-Author: Andreas Karmann
+Author: Andreas Johannes Karmann
 Twitter: @andi
