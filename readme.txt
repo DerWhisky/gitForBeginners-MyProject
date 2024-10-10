@@ -1,4 +1,4 @@
 Welcome to MyProject!
 
-Author: Andreas
+Author: Andreas Johannes
 Twitter: @andi
